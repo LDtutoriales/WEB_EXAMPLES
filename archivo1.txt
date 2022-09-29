@@ -42,3 +42,10 @@ let data = {
     }
   ]
 }
+
+let config = {
+  "configs": true,
+  "Dev": true,
+  "users": 3
+
+}
