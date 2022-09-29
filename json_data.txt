@@ -49,3 +49,5 @@ let config = {
   "users": 3
 
 }
+
+let apiFecth =[12,,45,5,5,5]
