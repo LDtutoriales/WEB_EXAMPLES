@@ -7,3 +7,18 @@ php
 
 
 array_num = [1,2,3,4,5]
+
+
+
+array_text = ["a","b","c"]
+
+def suma(a,b):
+	return a+b
+
+
+def resta(a,b):
+	return a-b
+
+
+def mult(a,b):
+	return (a*a)*(b*b)
